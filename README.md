@@ -1,0 +1,1 @@
+This project was created in Fall 2023 as an indepedent course-based project. It is a fully-GUI based calculat that provides all basic calculator functions including decimals (excludes operations on negative numbers). 
